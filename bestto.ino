@@ -41,12 +41,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "Pu0VuJlAVZu097j3kF27Gz3xkiAzqSGK";
+char auth[] = "tokenblynk";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Adam";
-char pass[] = "cendol123";
+char ssid[] = "xxxxxxxxx";
+char pass[] = "xxxxxxxxx";
 
 // Hardware Serial on Mega, Leonardo, Micro...
 #define EspSerial Serial1
